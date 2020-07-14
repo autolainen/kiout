@@ -1,6 +1,6 @@
-import 'package:aahitest/model/exceptions/data_mismatch_exception.dart';
-import 'package:aahitest/model/person.dart';
-import 'package:aahitest/model/user/user_status.dart';
+import 'package:kiouttest/model/exceptions/data_mismatch_exception.dart';
+import 'package:kiouttest/model/person.dart';
+import 'package:kiouttest/model/user/user_status.dart';
 import 'package:data_model/data_model.dart';
 import 'package:equatable/equatable.dart';
 import '../datetime/to_local_date_time.dart';

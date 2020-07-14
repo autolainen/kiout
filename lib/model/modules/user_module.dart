@@ -1,4 +1,4 @@
-import 'package:aahitest/model/modules/legal_persons/legal_persons_module_permissions.dart';
+import 'package:kiouttest/model/modules/legal_persons/legal_persons_module_permissions.dart';
 import 'package:data_model/data_model.dart';
 
 import './app_module.dart';

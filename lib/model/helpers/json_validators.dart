@@ -1,5 +1,5 @@
-import 'package:aahitest/model/purchase_price.dart';
-import 'package:aahitest/model/sku.dart';
+import 'package:kiouttest/model/purchase_price.dart';
+import 'package:kiouttest/model/sku.dart';
 import 'package:mime/mime.dart';
 
 import '../attachment/attachment.dart';

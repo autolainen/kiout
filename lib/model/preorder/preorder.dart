@@ -1,8 +1,8 @@
-import 'package:aahitest/model/package/package_type.dart';
-import 'package:aahitest/model/preorder/agent_service_preorder.dart';
-import 'package:aahitest/model/sku.dart';
-import 'package:aahitest/model/work_category.dart';
-import 'package:aahitest/model/work_type.dart';
+import 'package:kiouttest/model/package/package_type.dart';
+import 'package:kiouttest/model/preorder/agent_service_preorder.dart';
+import 'package:kiouttest/model/sku.dart';
+import 'package:kiouttest/model/work_category.dart';
+import 'package:kiouttest/model/work_type.dart';
 import 'package:collection/collection.dart';
 
 import '../catalog_item.dart';

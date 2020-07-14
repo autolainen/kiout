@@ -1,4 +1,4 @@
-import 'package:aahitest/model/modules/legal_persons/legal_person_status.dart';
+import 'package:kiouttest/model/modules/legal_persons/legal_person_status.dart';
 import 'package:data_model/data_model.dart';
 import 'package:equatable/equatable.dart';
 

@@ -1,4 +1,4 @@
-import 'package:aahitest/model/services/capitalize_first_letter.dart';
+import 'package:kiouttest/model/services/capitalize_first_letter.dart';
 import 'package:data_model/data_model.dart';
 
 /// Место смерти

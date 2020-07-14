@@ -1,4 +1,4 @@
-import 'package:aahitest/model/slack/slack_message.dart';
+import 'package:kiouttest/model/slack/slack_message.dart';
 import 'package:data_model/data_model.dart';
 
 import 'comment.dart';

@@ -1,5 +1,5 @@
-import 'package:aahitest/model/specifications/spec_status.dart';
-import 'package:aahitest/model/specifications/specification.dart';
+import 'package:kiouttest/model/specifications/spec_status.dart';
+import 'package:kiouttest/model/specifications/specification.dart';
 import 'package:data_model/data_model.dart';
 
 import 'datetime/to_local_date_time.dart';

@@ -1,6 +1,6 @@
 
-import 'package:aahitest/model/attachment/attachment.dart';
-import 'package:aahitest/model/comment.dart';
+import 'package:kiouttest/model/attachment/attachment.dart';
+import 'package:kiouttest/model/comment.dart';
 
 import '../datetime/to_local_date_time.dart';
 import '../exceptions/data_mismatch_exception.dart';

@@ -1,4 +1,4 @@
-package ru.autolainen.aahitest;
+package ru.autolainen.kiouttest;
 
 import io.flutter.embedding.android.FlutterActivity;
 

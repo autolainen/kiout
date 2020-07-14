@@ -1,9 +1,9 @@
-import 'package:aahitest/model/client.dart';
-import 'package:aahitest/model/order/order_type.dart';
-import 'package:aahitest/model/preorder/preorder.dart';
-import 'package:aahitest/services/form_data.dart';
-import 'package:aahitest/services/preorder_editor_bloc.dart';
-import 'package:aahitest/services/validators.dart';
+import 'package:kiouttest/model/client.dart';
+import 'package:kiouttest/model/order/order_type.dart';
+import 'package:kiouttest/model/preorder/preorder.dart';
+import 'package:kiouttest/services/form_data.dart';
+import 'package:kiouttest/services/preorder_editor_bloc.dart';
+import 'package:kiouttest/services/validators.dart';
 
 /// Объект бизнес-логики для создания предзаказа на захоронение и подзахоронение
 class BurialPreorderEditorBloc extends PreorderEditorBloc {

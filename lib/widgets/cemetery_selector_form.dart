@@ -1,7 +1,7 @@
-import 'package:aahitest/model/geo/point.dart';
-import 'package:aahitest/services/form_data.dart';
-import 'package:aahitest/widgets/cemetery_selector.dart';
-import 'package:aahitest/widgets/error_message_widget.dart';
+import 'package:kiouttest/model/geo/point.dart';
+import 'package:kiouttest/services/form_data.dart';
+import 'package:kiouttest/widgets/cemetery_selector.dart';
+import 'package:kiouttest/widgets/error_message_widget.dart';
 import 'package:flutter/material.dart';
 
 /// Форма выбора кладбища
